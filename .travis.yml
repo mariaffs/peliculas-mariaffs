@@ -1,5 +1,11 @@
 language: java
 deploy:
+<<<<<<< HEAD
   skip_cleanup: true
   provider: heroku
   app: develpeliculasurjc2
+=======
+ skip_cleanup: true
+ provider: heroku
+ app: develpeliculasurjc
+>>>>>>> 9f4094d468324eeceea4d2f8905a0c7743ea5800
