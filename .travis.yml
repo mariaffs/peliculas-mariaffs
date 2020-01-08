@@ -2,4 +2,4 @@ language: java
 deploy:
   skip_cleanup: true
   provider: heroku
-  app: develpeliculasurjc
+  app: develpeliculasurjc2
